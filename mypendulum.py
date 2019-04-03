@@ -1,8 +1,6 @@
 '''
 Modification of the environment 'Pendulum-v0' by Open AI Gym
 I added a random gaussian noise when I'm updating the angular velocity of the pendulum.
-
-YOU MUST GIVE THE PATH TO THE IMAGE FILE OF THE ARROW IN THE OPEN AI GYM INSTALATION 
 '''
 
 
